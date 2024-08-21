@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PasswordValidator {
 	
 	private static String currentUsername = "John Doe";
-	private static String currentPassword = "ABC_123"; 
+	private static String currentPassword = "ABC_12345"; 
 	
 	public static void main(String[] args) {
 		printPasswordRules();
